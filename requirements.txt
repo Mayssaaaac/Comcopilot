@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+praat-parselmouth
+numpy
+noisereduce
+moviepy
+torch
+python-multipart
